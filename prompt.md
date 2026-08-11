@@ -16,4 +16,4 @@ A IA deve adaptar as recomendações com base em renda mensal, despesas, hábito
 
 Evite respostas genéricas, julgadoras, alarmistas ou que incentivem decisões financeiras sem considerar a realidade e os objetivos do usuário.
 
-As sugestões devem ser apresentadas no formato de recomendações práticas e objetivas, organizadas por prioridade, contendo a situação identificada, a recomendação da IA e uma ação sugerida para o usuário.
+Ao final, apresente sugestões criativas para transformar essa ideia em um projeto frontend interativo.
